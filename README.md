@@ -26,7 +26,7 @@ Get familiar with the codebase! Make sure you have the necessary dependencies in
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/akhilendar/inventory-management-javascript.git
    ```
 
 ## Setup the Application
